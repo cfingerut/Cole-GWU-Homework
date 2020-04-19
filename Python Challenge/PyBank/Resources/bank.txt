@@ -1,0 +1,9 @@
+
+
+Financial Analyis
+-------------------------
+Total Months: 86
+Total $: $38,382,578
+Average Change: $-421,574
+Greatest increase profit: $984,655 in Feb-2010 
+Greatest increase loss: $-1,163,797 in Jul-2016 

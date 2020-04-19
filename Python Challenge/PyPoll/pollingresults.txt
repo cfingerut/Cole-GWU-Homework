@@ -1,0 +1,13 @@
+The Results are in...
+ The total amount of votes cast: 3521001
+  Breakdown of votes by candidate: 
+ 		 Khan----2218231
+		 Li----492940
+		 Correy----704200
+		 OTooley----105630
+  Percentage of vote won by candidate: 
+ 		 Khan (63.00%) 
+		 Li (14.00%) 
+		 Correy (20.00%) 
+		 OTooley (3.00%)
+ And your new Galactic Emporer is  ..........KHAAAAAAAAAAAAAAAAAAAN!
