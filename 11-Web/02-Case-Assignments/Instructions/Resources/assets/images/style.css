@@ -1,0 +1,52 @@
+
+
+
+
+.navbar {
+    padding: 10px;
+    background: grey;
+  }
+  
+
+.navbar li {
+    display: inline-block;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 10px;
+  }
+
+
+
+  .container_table {
+    text-align: center; 
+    vertical-align: middle;
+    background-color: antiquewhite;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-style: solid;
+    border-color: teal;
+  }
+
+  .container_table th {
+    text-align: center;
+  background-color: whitesmoke}
+
+  .data_body {background: teal;}
+
+  
+
+#wind_speed {text-align: center;}
+
+
+
+
+
+#viz {background-color: rgb(226, 235, 236);
+      border: dotted;
+      text-align: center;
+      padding:20px;}
+
+
