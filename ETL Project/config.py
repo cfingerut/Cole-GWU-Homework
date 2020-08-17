@@ -1,8 +1,0 @@
-sf_username = 'c.fingerut@gmail.com'
-sf_password = 'monkey22'
-sf_security_token = 'VtvWu6tQpqA56mEzET309Q5J'
-remote_db_endpoint = 'coletime.cxbfxarkbay9.us-east-2.rds.amazonaws.com'
-remote_db_port = '3306'
-remote_db_user = 'admin'
-remote_db_pwd = 'monkey22'
-remote_db_name = 'gwsis'
